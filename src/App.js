@@ -10,13 +10,13 @@ import DialogComponent from './component/DialogComponent';
 import ContextThreeDotMenuComponent from './component/ContextThreeDotMenuComponent';
 import PaginationComponent from './component/PaginationComponent';
 
-import {AutoCompleteBox} from '@eccenca/gui-elements';
+
 import ProgressBarComponent from './component/progressBarComponent';
 import CartComponent from './component/CartComponent';
 import SearchBoxComponent from './component/SearchBoxComponent';
 
 
-import { NotAvailable } from '@eccenca/gui-elements';
+
 import { NotAvailableComponent } from './component/NotAvailableComponent';
 
 
